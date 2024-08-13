@@ -40,7 +40,7 @@ export const CN_MASKS: BuiltinMask[] = [
       },
     ],
     modelConfig: {
-      model: "moonshot-v1-128k",
+      model: "gpt-4o",
       temperature: 1,
       max_tokens: 20000,
       presence_penalty: 0,
@@ -66,7 +66,7 @@ export const CN_MASKS: BuiltinMask[] = [
       },
     ],
     modelConfig: {
-      model: "moonshot-v1-128k",
+      model: "gpt-4o",
       temperature: 1,
       max_tokens: 20000,
       presence_penalty: 0,
