@@ -55,7 +55,7 @@ export const CN_MASKS: BuiltinMask[] = [
   },
     {
     avatar: "1f638",
-    name: "学python第三章：循环语句",
+    name: "学python第三章",
     context: [
       {
         id: "writer-0",
